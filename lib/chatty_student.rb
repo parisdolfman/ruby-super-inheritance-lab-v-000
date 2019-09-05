@@ -1,4 +1,4 @@
-require_relative "/.student.rb"
+require_relative "./student.rb"
 
 class ChattyStudent < Student
 
@@ -9,4 +9,4 @@ end
 
 
 
-end 
+end
